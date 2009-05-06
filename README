@@ -19,6 +19,7 @@ of the processor that "owns" that cell in parallel mode
 Required OpenFOAM-Version (Known to work with)
 ==============================================
 1.4.1 
+1.5 
 (propably works for older versions, but not tested)
 
 Directory Contents
